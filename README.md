@@ -7,7 +7,7 @@
 | File | Description |
 |---|---|
 | `12_Anomaly_Detection_Fraud_Sensor_Data_Summer_2026.ipynb` | Project Jupyter Notebook (all 10 questions) |
-| `Summer_Internship_Report_2026_Tejasa_Bhatnagar.docx` | Full project report |
+| `Final_Summer_Internship_Report_2026_Tejasa_Bhatnagar.docx` | Full project report |
 
 ## References
 - Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). Isolation Forest. IEEE ICDM, pp. 413–422.
